@@ -1,0 +1,10 @@
+[
+{
+  "displayName":"Node.js Express",
+  "description":"Eclipse Codewind Express sample application",
+  "language":"nodejs",
+  "projectType":"nodejs",
+  "location":"https://github.com/codewind-resources/nodeExpressTemplate",
+  "links": {"self":"/devfiles/nodeExpressTemplate/devfile.yaml" }
+}
+]
