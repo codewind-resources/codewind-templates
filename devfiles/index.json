@@ -12,7 +12,7 @@
   "description":"Eclipse Codewind Spring Boot® sample application",
   "language":"java",
   "projectType":"spring",
-  "location":"https://github.com/codwwind-resources/springJavaTemplate",
+  "location":"https://github.com/codewind-resources/springJavaTemplate",
   "links": {"self":"/devfiles/springJavaTemplate/devfile.yaml" }
 }
 ,{
