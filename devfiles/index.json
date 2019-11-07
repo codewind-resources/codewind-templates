@@ -15,7 +15,7 @@
   "location":"https://github.com/codwwind-resources/springJavaTemplate",
   "links": {"self":"/devfiles/springJavaTemplate/devfile.yaml" }
 }
-{
+,{
   "displayName":"WebSphere Liberty MicroProfile®",
   "description":"Eclipse MicroProfile® on Websphere Liberty",
   "language":"java",
