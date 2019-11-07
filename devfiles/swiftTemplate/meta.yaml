@@ -1,0 +1,7 @@
+displayName: Swift
+description: Sample for building a Swift microservice
+tags: ["swift"]
+globalMemoryLimit: 2674Mi
+icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
+projectType: "swift"
+language: "swift"
