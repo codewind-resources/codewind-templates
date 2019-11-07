@@ -44,7 +44,7 @@
   "description":"Eclipse Codewind Go sample application",
   "language":"go",
   "projectType":"docker",
-  "location":"https://github.com/codewind-resourcess/goTemplate",
+  "location":"https://github.com/codewind-resources/goTemplate",
   "links": {"self":"/devfiles/goTemplate/devfile.yaml" }
 }
 ,{
