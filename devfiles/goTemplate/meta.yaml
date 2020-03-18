@@ -2,6 +2,6 @@ displayName: Go
 description: Sample microservice for simple go app
 tags: ["go", "docker"]
 globalMemoryLimit: 2674Mi
-icon: "../icon/Codewind_blue.svg"
+icon: "https://raw.githubusercontent.com/codewind-resources/codewind-templates/master/devfiles/icon/Codewind_blue.svg"
 projectType: "docker"
 language: "go"

@@ -2,6 +2,6 @@ displayName: Node.js Express
 description: Eclipse Codewind Node.js Express sample application
 tags: ["Nodejs"]
 globalMemoryLimit: 2674Mi
-icon: "../icon/Codewind_blue.svg"
+icon: "https://raw.githubusercontent.com/codewind-resources/codewind-templates/master/devfiles/icon/Codewind_blue.svg"
 projectType: "nodejs"
 language: "nodejs"
