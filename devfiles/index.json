@@ -1,39 +1,44 @@
 [
 {
-  "displayName":"Node.js Express",
-  "description":"Eclipse Codewind Express sample application",
-  "language":"nodejs",
-  "projectType":"nodejs",
-  "location":"https://github.com/codewind-resources/nodeExpressTemplate",
-  "links": {"self":"/devfiles/nodeExpressTemplate/devfile.yaml" }
-}
-,{
-  "displayName":"Spring Boot®",
-  "description":"Eclipse Codewind Spring Boot® sample application",
-  "language":"java",
-  "projectType":"spring",
-  "location":"https://github.com/codewind-resources/springJavaTemplate",
-  "links": {"self":"/devfiles/springJavaTemplate/devfile.yaml" }
-}
-,{
   "displayName":"WebSphere Liberty MicroProfile®",
   "description":"Eclipse MicroProfile® on Websphere Liberty",
+  "icon":"../icon/Codewind_blue.svg",
   "language":"java",
   "projectType":"liberty",
   "location":"https://github.com/codewind-resources/javaMicroProfileTemplate",
   "links": {"self":"/devfiles/javaMicroProfileTemplate/devfile.yaml" }
 }
 ,{
+  "displayName":"Spring Boot®",
+  "description":"Spring Boot®",
+  "icon":"../icon/Codewind_blue.svg",
+  "language":"java",
+  "projectType":"spring",
+  "location":"https://github.com/codewind-resources/springJavaTemplate",
+  "links": {"self":"/devfiles/springJavaTemplate/devfile.yaml" }
+}
+,{
   "displayName":"Python",
-  "description":"Eclipse Codewind Python sample application",
+  "description":"HelloWorld microservice written in python",
+  "icon":"../icon/Codewind_blue.svg",
   "language":"python",
   "projectType":"docker",
   "location":"https://github.com/codewind-resources/pythonTemplate",
   "links": {"self":"/devfiles/pythonTemplate/devfile.yaml" }
 }
 ,{
+  "displayName":"Node.js Express",
+  "description":"Eclipse Codewind Node.js Express sample application",
+  "icon":"../icon/Codewind_blue.svg",
+  "language":"nodejs",
+  "projectType":"nodejs",
+  "location":"https://github.com/codewind-resources/nodeExpressTemplate",
+  "links": {"self":"/devfiles/nodeExpressTemplate/devfile.yaml" }
+}
+,{
   "displayName":"Swift",
-  "description":"Eclipse Codewind Swift sample application",
+  "description":"Sample for building a Swift microservice",
+  "icon":"../icon/Codewind_blue.svg",
   "language":"swift",
   "projectType":"swift",
   "location":"https://github.com/codewind-resources/swiftTemplate",
@@ -41,7 +46,8 @@
 }
 ,{
   "displayName":"Go",
-  "description":"Eclipse Codewind Go sample application",
+  "description":"Sample microservice for simple go app",
+  "icon":"../icon/Codewind_blue.svg",
   "language":"go",
   "projectType":"docker",
   "location":"https://github.com/codewind-resources/goTemplate",
@@ -49,7 +55,8 @@
 }
 ,{
   "displayName":"Lagom Java",
-  "description":"Eclipse Codewind Lagom Reactive microservice in Java",
+  "description":"Sample for building Lagom Reactive microservice in Java",
+  "icon":"../icon/Codewind_blue.svg",
   "language":"java",
   "projectType":"docker",
   "location":"https://github.com/codewind-resources/lagomJavaTemplate",
@@ -57,7 +64,8 @@
 }
 ,{
   "displayName":"Open Liberty",
-  "description":"Eclipse Codewind Open Liberty sample application in Java",
+  "description":"Template for building an Open Liberty microservice in Java",
+  "icon":"../icon/Codewind_blue.svg",
   "language":"java",
   "projectType":"docker",
   "location":"https://github.com/codewind-resources/openLibertyTemplate",

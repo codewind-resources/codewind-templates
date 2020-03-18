@@ -13,7 +13,7 @@ set -e
 # Arguments:
 # 1 - folder to search files in
 function buildIndex() {
-    metaInfoFields=('displayName' 'description' 'language' 'projectType')
+    metaInfoFields=('displayName' 'description' 'icon' 'language' 'projectType')
     metaInfoFields2=('projects')
 
 
