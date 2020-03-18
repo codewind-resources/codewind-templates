@@ -2,7 +2,7 @@
 {
   "displayName":"WebSphere Liberty MicroProfile®",
   "description":"Eclipse MicroProfile® on Websphere Liberty",
-  "icon":"./icon/Codewind_blue.svg",
+  "icon":"/icon/Codewind_blue.svg",
   "language":"java",
   "projectType":"liberty",
   "location":"https://github.com/codewind-resources/javaMicroProfileTemplate",
@@ -11,7 +11,7 @@
 ,{
   "displayName":"Spring Boot®",
   "description":"Spring Boot®",
-  "icon":"./icon/Codewind_blue.svg",
+  "icon":"/icon/Codewind_blue.svg",
   "language":"java",
   "projectType":"spring",
   "location":"https://github.com/codewind-resources/springJavaTemplate",
@@ -20,7 +20,7 @@
 ,{
   "displayName":"Python",
   "description":"HelloWorld microservice written in python",
-  "icon":"./icon/Codewind_blue.svg",
+  "icon":"/icon/Codewind_blue.svg",
   "language":"python",
   "projectType":"docker",
   "location":"https://github.com/codewind-resources/pythonTemplate",
@@ -29,7 +29,7 @@
 ,{
   "displayName":"Node.js Express",
   "description":"Eclipse Codewind Node.js Express sample application",
-  "icon":"./icon/Codewind_blue.svg",
+  "icon":"/icon/Codewind_blue.svg",
   "language":"nodejs",
   "projectType":"nodejs",
   "location":"https://github.com/codewind-resources/nodeExpressTemplate",
@@ -38,7 +38,7 @@
 ,{
   "displayName":"Swift",
   "description":"Sample for building a Swift microservice",
-  "icon":"./icon/Codewind_blue.svg",
+  "icon":"/icon/Codewind_blue.svg",
   "language":"swift",
   "projectType":"swift",
   "location":"https://github.com/codewind-resources/swiftTemplate",
@@ -47,7 +47,7 @@
 ,{
   "displayName":"Go",
   "description":"Sample microservice for simple go app",
-  "icon":"./icon/Codewind_blue.svg",
+  "icon":"/icon/Codewind_blue.svg",
   "language":"go",
   "projectType":"docker",
   "location":"https://github.com/codewind-resources/goTemplate",
@@ -56,7 +56,7 @@
 ,{
   "displayName":"Lagom Java",
   "description":"Sample for building Lagom Reactive microservice in Java",
-  "icon":"./icon/Codewind_blue.svg",
+  "icon":"/icon/Codewind_blue.svg",
   "language":"java",
   "projectType":"docker",
   "location":"https://github.com/codewind-resources/lagomJavaTemplate",
@@ -65,7 +65,7 @@
 ,{
   "displayName":"Open Liberty",
   "description":"Template for building an Open Liberty microservice in Java",
-  "icon":"./icon/Codewind_blue.svg",
+  "icon":"/icon/Codewind_blue.svg",
   "language":"java",
   "projectType":"docker",
   "location":"https://github.com/codewind-resources/openLibertyTemplate",
