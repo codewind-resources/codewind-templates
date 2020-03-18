@@ -10,7 +10,7 @@
 }
 ,{
   "displayName":"Spring Boot®",
-  "description":"Spring Boot®",
+  "description":"Eclipse Codewind Spring Boot® sample application",
   "icon":"https://ibm.box.com/shared/static/1f4rsxgkxy4p8ourz6kli9sora4s4idw.svg",
   "language":"java",
   "projectType":"spring",
@@ -19,7 +19,7 @@
 }
 ,{
   "displayName":"Python",
-  "description":"HelloWorld microservice written in python",
+  "description":"Eclipse Codewind Python sample application",
   "icon":"https://ibm.box.com/shared/static/1f4rsxgkxy4p8ourz6kli9sora4s4idw.svg",
   "language":"python",
   "projectType":"docker",
@@ -37,7 +37,7 @@
 }
 ,{
   "displayName":"Swift",
-  "description":"Sample for building a Swift microservice",
+  "description":"Eclipse Codewind Swift sample application",
   "icon":"https://ibm.box.com/shared/static/1f4rsxgkxy4p8ourz6kli9sora4s4idw.svg",
   "language":"swift",
   "projectType":"swift",
@@ -46,7 +46,7 @@
 }
 ,{
   "displayName":"Go",
-  "description":"Sample microservice for simple go app",
+  "description":"Eclipse Codewind Go sample application",
   "icon":"https://ibm.box.com/shared/static/1f4rsxgkxy4p8ourz6kli9sora4s4idw.svg",
   "language":"go",
   "projectType":"docker",
@@ -55,7 +55,7 @@
 }
 ,{
   "displayName":"Lagom Java",
-  "description":"Sample for building Lagom Reactive microservice in Java",
+  "description":"Eclipse Codewind Lagom Reactive microservice in Java",
   "icon":"https://ibm.box.com/shared/static/1f4rsxgkxy4p8ourz6kli9sora4s4idw.svg",
   "language":"java",
   "projectType":"docker",
@@ -64,7 +64,7 @@
 }
 ,{
   "displayName":"Open Liberty",
-  "description":"Template for building an Open Liberty microservice in Java",
+  "description":"Eclipse Codewind Open Liberty sample application in Java",
   "icon":"https://ibm.box.com/shared/static/1f4rsxgkxy4p8ourz6kli9sora4s4idw.svg",
   "language":"java",
   "projectType":"docker",
